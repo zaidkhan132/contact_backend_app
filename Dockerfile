@@ -1,4 +1,4 @@
-FROM openjdk:21.0.4
+FROM openjdk:11
 
 COPY target/contact-backend-app.jar  /usr/app/
 
