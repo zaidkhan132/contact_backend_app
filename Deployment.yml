@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactbackendcontainer
-      image: zaifar/contactapi
+      image: zaifar/backendapi
       ports:
       - containerPort: 8080
 ---
